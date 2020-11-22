@@ -10044,3 +10044,15 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+#about .image-container
+{
+  padding-top: 100px;
+}
+
+@media (max-width: 992px) {
+  #about .image-container
+  {
+    padding-top: 0px;
+  }
+}
